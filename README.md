@@ -1,4 +1,5 @@
 CodSoft Data Science Projects
+
 Welcome to my CodSoft Data Science Projects repository. This collection contains a series of Jupyter notebooks demonstrating various data science projects I've worked on during my internship at CodSoft. Below, you'll find a brief overview of each project included in this repository.
 
 Projects
